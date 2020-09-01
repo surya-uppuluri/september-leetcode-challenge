@@ -1,6 +1,6 @@
-package ksep12020
+package kt.day1
 
-import jv.sep12020.prerequisites.PermutationGenerator
+import jv.day1.prerequisites.PermutationGenerator
 import lombok.extern.slf4j.Slf4j
 import java.util.*
 

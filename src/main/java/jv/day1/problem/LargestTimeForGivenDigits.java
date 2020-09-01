@@ -1,6 +1,6 @@
-package jv.sep12020.problem;
+package jv.day1.problem;
 
-import jv.sep12020.prerequisites.PermutationGenerator;
+import jv.day1.prerequisites.PermutationGenerator;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.ArrayList;

@@ -1,6 +1,6 @@
 package jv.jsep12020.prerequisites;
 
-import jv.sep12020.prerequisites.PermutationGenerator;
+import jv.day1.prerequisites.PermutationGenerator;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;

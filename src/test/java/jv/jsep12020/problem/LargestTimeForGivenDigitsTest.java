@@ -1,6 +1,6 @@
 package jv.jsep12020.problem;
 
-import jv.sep12020.problem.LargestTimeForGivenDigits;
+import jv.day1.problem.LargestTimeForGivenDigits;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

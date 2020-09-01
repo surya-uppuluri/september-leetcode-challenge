@@ -1,4 +1,4 @@
-package ksep12020
+package kt.day1
 
 import java.util.*
 

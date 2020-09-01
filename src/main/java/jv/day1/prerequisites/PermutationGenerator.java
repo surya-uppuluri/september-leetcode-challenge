@@ -1,4 +1,4 @@
-package jv.sep12020.prerequisites;
+package jv.day1.prerequisites;
 
 import java.util.ArrayList;
 import java.util.List;
