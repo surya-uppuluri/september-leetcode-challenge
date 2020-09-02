@@ -11,7 +11,7 @@ notifications:
       - surya_uppuluri@outlook.com
       - usuryasatyakumar@gmail.com
     on_failure: always
-    on_success: always
+    on_success: never
 
 after_success:
   - bash <(curl -s https://codecov.io/bash)
