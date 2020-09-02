@@ -10,4 +10,4 @@ _Source: leetCode._
 
 | Day | Problem | Solution Approach |
 | --- | --- | --- |
-| 1-Sep-2020| [LargestTimeForGivenDigits](src/main/java/jv/sep12020/problem/LargestTimeForGivenDigits.java)| |
+| 1-Sep-2020| [LargestTimeForGivenDigits](src/main/java/jv/sep12020/problem/LargestTimeForGivenDigits.java)| Approach-1: Backtracking and Sorting Times as Strings |
